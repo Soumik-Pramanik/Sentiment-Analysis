@@ -8,3 +8,5 @@ Use the transformer model on the movie reviews dataset. To use explainability to
 * The uncased word means it is case-insensitive
 # Result
 ![image](https://user-images.githubusercontent.com/96630179/189303724-0711d3e4-d11c-4389-afc7-ea85b97d5342.png)
+![image](https://user-images.githubusercontent.com/96630179/189495835-eab91e60-4ffc-477d-bd2a-2198fb13b565.png)
+![image](https://user-images.githubusercontent.com/96630179/189495849-14eeb56b-77f6-4b60-809b-d8b49386fff5.png)
