@@ -9,4 +9,4 @@ Use the transformer model on the movie reviews dataset. To use explainability to
 # Result
 ![image](https://user-images.githubusercontent.com/96630179/189303724-0711d3e4-d11c-4389-afc7-ea85b97d5342.png)
 ![image](https://user-images.githubusercontent.com/96630179/189495835-eab91e60-4ffc-477d-bd2a-2198fb13b565.png)
-
+![image](https://user-images.githubusercontent.com/96630179/189497201-e5d7a346-bb01-4f64-becc-f57c4065f4ad.png)
